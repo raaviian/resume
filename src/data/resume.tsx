@@ -77,7 +77,7 @@ export const DATA = {
       title: "Software Developer",
       logoUrl: "/env.jpeg",
       start: "January 2025",
-      // end: "January 2025",
+      end: "Present",
       description:
         "Maintained and supported the company's main product (event management system) using the Angular framework for the front end and .NET API for the back end. Addressed bugs, implemented feature updates, and ensured the system remained operational and efficient. Worked on improving the stability and usability of the existing system. This involved refining features based on user feedback, optimizing performance, and enhancing the user interface to provide a more intuitive.",
     },
@@ -144,6 +144,7 @@ export const DATA = {
         },
       ],
       image: "/fw.png",
+      video:""
     },
     {
       title: "KL House Price Prediction",
@@ -226,6 +227,7 @@ export const DATA = {
         },
       ],
       image: "/knd.png",
+      video: "",
     },
   ],
   hackathons: [
